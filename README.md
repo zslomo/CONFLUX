@@ -1,3 +1,5 @@
 # CONFLUX
 code for paper: CONFLUX: A Request-level Fusion Framework for Impression Allocation via Cascade Distillation  
-Since the code involves the company's privacy policy, it is being desensitized and converted to an open source version
+Due to company privacy concerns, there is no sample generation logic code (src.sample_processing.py) and feature code here, no data
+opt_spark.py : The code of optimization algo (pyspark version)
+run.py : The code of model
